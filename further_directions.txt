@@ -1,0 +1,6 @@
+Categorization of user can be done in further ways:
+  - Weekend/Weekday spender
+  - Preferred expenditure - food, luxury, transport, etc.
+  - Frequency of usage
+  - Withdrawal Frequency/size
+  - Deposit Frequency/Size
